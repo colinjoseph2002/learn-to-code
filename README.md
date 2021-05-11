@@ -1,1 +1,1 @@
-# learnt-to-code
+# learn-to-code
